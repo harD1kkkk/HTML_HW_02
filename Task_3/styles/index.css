@@ -1,0 +1,19 @@
+body {
+    background-color: silver;
+
+    margin-top: 50px;
+    margin-left: 40px;
+    font-family: Arial, sans-serif;
+}
+
+.grey {
+    color: grey;
+}
+
+.purple {
+    color: purple;
+}
+
+.word {
+    font-family: Arial, sans-serif;
+}
