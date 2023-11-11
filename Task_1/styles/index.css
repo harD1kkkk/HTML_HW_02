@@ -1,0 +1,19 @@
+.background {
+    width: 20%;
+}
+
+ul {
+    font-family: Arial, sans-serif;
+    list-style: none;
+    background-color: rgba(248, 135, 158, 0.863);
+    padding: 10px;
+}
+
+li {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 12px;
+    padding-left: 12px;
+    color:rgba(255, 255, 255, 0.808);
+    background-color: rgba(189, 82, 103, 0.801);
+}
